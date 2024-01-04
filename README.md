@@ -1,6 +1,6 @@
 # Predicting Graduate Admissions with Machine Learning
 
-Welcome to my Jupyter Notebook! In this project, I delve into the realm of predictive analytics to forecast the likelihood of admission for graduate students based on various factors. The dataset, sourced from Kaggle, includes essential parameters like GRE score, TOEFL score, university rating, statement of purpose (SOP), letter of recommendation (LOR), CGPA, and research experience.
+In this project, I delve into the realm of predictive analytics to forecast the likelihood of admission for graduate students based on various factors. The dataset, sourced from Kaggle, includes essential parameters like GRE score, TOEFL score, university rating, statement of purpose (SOP), letter of recommendation (LOR), CGPA, and research experience.
 
 ### Project Context
 
